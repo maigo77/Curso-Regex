@@ -1,0 +1,22 @@
+// desafioCPF.js
+`
+  CPF dos Aprovados: 
+    - 600.567.980-12
+    - 765.998.345.23 
+    - ...
+`
+
+// desafioTelefone.js
+`
+  Lista Telefônica: 
+    - (11) 98765-1212
+    - 98765-4321 
+    - ...
+`
+
+// desafioEmail.js
+`
+  Os e-mails dos convidados são: 
+    - fulano@cod3r.com.br
+    - xico@gmail.com
+`
